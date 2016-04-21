@@ -2,4 +2,4 @@
 just translation
 
 - 导入模块  
-	![](1.jpg =400x)
+	![](https://raw.githubusercontent.com/baibaibai66/Seaborn/pictures/1.jpg =400x)
