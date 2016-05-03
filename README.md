@@ -152,4 +152,4 @@ Seaborn中回归图主要是引导增强可视化，有助于数据分析中发�
 	![](https://raw.githubusercontent.com/baibaibai66/Seaborn/pictures/327.png)
 
 
- Seaborn模块的使用就简单介绍这些，如果有兴趣，还可以到官方网站自行查阅。`
+` Seaborn模块的使用就简单介绍这些，如果有兴趣，还可以到官方网站自行查阅。`
